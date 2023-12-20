@@ -1,4 +1,4 @@
-# :wave: This is [Murrman Technologies](@MurrmanTech)
+# :merman: This is [Murrman Technologies](@MurrmanTech)
 
 ## Description
 
