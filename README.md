@@ -1,4 +1,4 @@
-# :merman: This is [Murrman Technologies](@MurrmanTech)
+# :merman: [Murrman Technologies](@MurrmanTech) :merman:
 
 Murrman Technologies provides consulting services for various technologies including Broadcast Systems, Audio Engineering, Software Design and more.
 
